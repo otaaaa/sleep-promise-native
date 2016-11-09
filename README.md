@@ -22,7 +22,7 @@ with asyncawait
 npm install asyncawait --save
 ```
 
-```
+```javascript
 const async = require('asyncawait/async'),
       await = require('asyncawait/await'),
       sleep = require('sleep.async')

@@ -31,4 +31,5 @@ const delay = async (() => {
   await (sleep(2000))
   console.log('2000ms later.')
 })
+delay()
 ```

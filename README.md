@@ -1,5 +1,5 @@
 # sleep.async
-Promisify sleep module.
+Super simple promisify sleep module.
 
 ## Install
 

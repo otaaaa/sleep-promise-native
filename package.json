@@ -1,7 +1,7 @@
 {
   "name": "sleep.async",
-  "version": "1.0.3",
-  "description": "Promisify sleep module",
+  "version": "1.0.4",
+  "description": "Super simple promisify sleep module",
   "main": "index.js",
   "scripts": {
     "test": "mocha --timeout 10000 ./**/*.spec.js"
@@ -13,7 +13,11 @@
   "keywords": [
     "sleep",
     "promise",
-    "setTimeout"
+    "promisify",
+    "setTimeout",
+    "async",
+    "sleep-async",
+    "sleep.async"
   ],
   "author": "30kidz",
   "license": "ISC",

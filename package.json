@@ -1,6 +1,6 @@
 {
-  "name": "sleep.async",
-  "version": "1.0.4",
+  "name": "sleep-promise-native",
+  "version": "1.0.0",
   "description": "Super simple promisify sleep module",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otaaaa/sleep.async.git"
+    "url": "git+https://github.com/otaaaa/sleep-promise-native.git"
   },
   "keywords": [
     "sleep",
@@ -16,15 +16,16 @@
     "promisify",
     "setTimeout",
     "async",
+    "promise",
     "sleep-async",
-    "sleep.async"
+    "sleep-promise"
   ],
   "author": "otaaaa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/otaaaa/sleep.async/issues"
+    "url": "https://github.com/otaaaa/sleep-promise-native/issues"
   },
-  "homepage": "https://github.com/otaaaa/sleep.async#readme",
+  "homepage": "https://github.com/otaaaa/sleep-promise-native#readme",
   "devDependencies": {
     "expect": "^1.20.2",
     "mocha": "^3.1.2"
